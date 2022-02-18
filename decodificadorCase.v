@@ -1,4 +1,4 @@
-module tp1isl (entrada, saida);
+module decodificadorCase (entrada, saida);
     input [0:4] entrada;
     output reg [0:6] saida;
 
